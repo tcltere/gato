@@ -1,0 +1,31 @@
+@media (max-width: 575px){
+
+
+}
+
+@media (max-width: 767px){
+ .container{
+    background-image: url(imagenes/night.jpg);
+  }
+  .gatitos{
+    background-image: url(imagenes/kitten-small.png);
+  }
+}
+@media (min-width: 768px) and (max-width: 991px){
+  .container{
+    background-image: url(imagenes/dawn.png);
+    padding-left: 30%;
+  }
+  .gatitos{
+    background-image: url(imagenes/kitten-large.png);
+    background-size: 50%;
+  }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
+@media (min-width: 1200px){
+
+}
